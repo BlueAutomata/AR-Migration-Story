@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Window
+  - Photo
+  - LightObject
+  - Message
+  - Character1
+  - Character2
+  - TV
+  - BigDoor
+  - Carrot
+  - Cheese
+  - Chicken
+  - Onion
+  - Door
+  - Clock
+  - Character
+  - Objects
+  - Position
+  - River
+  - Street
+  - Refrigerator
+  - Fire
+  - Disco
+  - Car
+  - Fence
+  - Guard1
+  - Guard2
+  - Bus
+  - Carrot2
+  - Cheese2
+  - Onion2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - LED
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
